@@ -8,7 +8,7 @@
 'secondheart' is 'Artificiality Heart' Project for medical hackathon hosted in Konkuk Univ. 
 
 
-# footprints (issue & bug tracking)
+# :footprints: ootprints (issue & bug tracking)
 .
 .
 .
