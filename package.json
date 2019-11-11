@@ -1,0 +1,36 @@
+{
+  "name": "secondheart",
+  "version": "1.0.0",
+  "description": "ArtificialityHeart Project for medical hackathon hosted in Konkuk Univ.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeok0902e/secondheart.git"
+  },
+  "keywords": [
+    "artificiality",
+    "heart"
+  ],
+  "author": "hyeok0902e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeok0902e/secondheart/issues"
+  },
+  "homepage": "https://github.com/hyeok0902e/secondheart#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "morgan": "^1.9.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
