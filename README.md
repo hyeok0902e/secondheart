@@ -5,7 +5,7 @@
 ![npm](https://img.shields.io/badge/npm-v6.11.3-green)
 ![Arduino](https://img.shields.io/badge/Arduino-v1.8.10-blue)
 
-'secondheart' is 'Artificiality Heart' Project for medical hackathon hosted in Konkuk Univ. 
+`secondheart` is 'artificiality heart' project for medical hackathon hosted in Konkuk Univ. 
 
 
 # :footprints: ootprints (issue & bug tracking)
