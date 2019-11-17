@@ -4,7 +4,7 @@ const morgan = require('morgan');
 const path = require('path');
 const session = require('express-session');
 const flash = require('connect-flash');
-const { sequelize } = require('./models');
+// const { sequelize } = require('./models');
 const expressLayout = require('express-ejs-layouts');
 require('dotenv').config();
 
@@ -16,7 +16,7 @@ require('dotenv').config();
 const indexRouter = require('./routes/index');
 
 const app = express();
-sequelize.sync();
+// sequelize.sync();
 
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
