@@ -8,6 +8,10 @@ const { sequelize } = require('./models');
 const expressLayout = require('express-ejs-layouts');
 require('dotenv').config();
 
+// arduino
+// const { mainArduino } = require('./arduino')
+// mainArduino();
+
 // router
 const indexRouter = require('./routes/index');
 
