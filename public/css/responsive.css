@@ -63,8 +63,8 @@ Author URI: http://www.xpeedstudio.com
         display: none;
     }
     .main-portfolio .grid-item {
-        position: relative;
-        margin: 5px;
+        position: relative; 
+        margin: 5px 10px;
         width:350px;
         overflow: hidden;
     }
@@ -106,7 +106,6 @@ Author URI: http://www.xpeedstudio.com
         display: none;
     }
 
-
 }
 
 
@@ -119,7 +118,11 @@ Author URI: http://www.xpeedstudio.com
         font-size: 85%;
     }
 
-
+    
+    .main-portfolio .grid-item {
+        margin: 5px 10px;
+        overflow: hidden !important;
+    }
 
 }
 

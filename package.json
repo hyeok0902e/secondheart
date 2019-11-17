@@ -4,6 +4,7 @@
   "description": "ArtificialityHeart Project for medical hackathon hosted in Konkuk Univ.",
   "main": "app.js",
   "scripts": {
+    "start": "cross-env NODE_ENV=production PORT=80 pm2 start app.js",
     "dev": "nodemon app"
   },
   "repository": {
